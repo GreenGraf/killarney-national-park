@@ -72,4 +72,19 @@ h1, h2{
     background-position-y: 10%;
 }
 
+/* media queries */
 
+@media screen and (max-width:1169px){
+    #hero-image{
+        width: 100%;
+        height: 500px;
+    }
+}
+
+
+@media screen and (max-width:750px){
+    #hero-image{
+        width: 100%;
+        height: 240px;
+    }
+}
