@@ -19,14 +19,28 @@ h1, h2{
     text-transform: uppercase;
 }
 
+nav{
+    height: 120px;
+    width: 100%;
+    background-color: #6C7C49;
+}
+
 .nav-list{
     display: flex;
     justify-content: flex-end;
     font-size: 150%;
     list-style: none;
+    text-transform: uppercase;
 }
 
 .nav-item{
+    list-style: none;
+    margin-right: 2rem;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: #E0E2DB;
 }
 
 #logo{
