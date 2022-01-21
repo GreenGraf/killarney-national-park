@@ -58,3 +58,18 @@ h1, h2{
     margin-right: auto;
     font-size: 160%;
 }
+
+#logo{
+    letter-spacing: 8px;
+}
+
+/* Hero Image */
+
+#hero-image{
+    background: url('../images/lough-leane.jpg') no-repeat center center;
+    height:700px;
+    background-size: 120%;
+    background-position-y: 10%;
+}
+
+
