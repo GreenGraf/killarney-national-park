@@ -148,11 +148,42 @@ h1, h2{
 
 /* Hero Image */
 
+.wrapper{
+    position: relative;
+}
+
+#hero-outer{
+    position: relative;
+}
+
 #hero-image{
     background: url('../images/lough-leane.jpg') no-repeat center center;
     height:700px;
     background-size: 120%;
     background-position-y: 10%;
+}
+
+/* hero image cover text */
+
+#cover-text, #cover-text h2{
+    color: rgb(34, 34, 34);
+}
+
+#cover-text{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 200px;
+    background-color: rgba(209, 209, 209, 0.6);
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 20px;
+    justify-content: center;
+    align-items: left;
+    top: 50%;
+    left: 15%;
+    right: 0;
+    bottom: 0;
 }
 
 /* media queries */
