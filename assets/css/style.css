@@ -9,8 +9,26 @@
 body{
     font-family: "Montserrat", sans-serif;
     font-weight: 300;
+    color: rgb(29, 29, 29);
 }
 
-h1{
+/*  headings and logo */
+
+h1, h2{
     font-family: "Source Serif Pro", serif ;
+    text-transform: uppercase;
+}
+
+.nav{
+    display: flex;
+}
+
+.nav-item{
+    list-style: none;
+    display:flex;
+    justify-content: flex-end;
+}
+
+#logo{
+    font-size: 260%;
 }
