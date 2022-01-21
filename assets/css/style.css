@@ -65,14 +65,16 @@ h1, h2{
 
 
 
-/* hamburger Menu */
+/* hamburger Menu link to code: https://dev.to/ljcdev/hamburger-css-no-js-2dfa*/
 .hamburger {
     position: fixed;
     /* a large z-index puts the ham button above the rest of the page*/
     z-index: 99;
     background: #6C7C49;
+    color: #fafafa;
     border: none;
     cursor: pointer;
+    font-size: 200%;
     top: 1.5rem;
     right: 1rem;
   }
@@ -81,8 +83,8 @@ h1, h2{
     font-family: 'Material Icons';
     font-weight: normal;
     font-style: normal;
-    font-size: 50px;
-    line-height: 1;
+    font-size: 45px !important;
+    line-height: 0.5 !important;
     letter-spacing: normal;
     text-transform: none;
     display: inline-block;
@@ -91,6 +93,7 @@ h1, h2{
     direction: ltr;
     -webkit-font-feature-settings: 'liga';
     -webkit-font-smoothing: antialiased;
+    text-decoration: none !important;
   }
   
   .menu {
@@ -111,7 +114,8 @@ h1, h2{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-
+    padding-top: 10px;
+    
     
     /* animate slide up/down */
     transform: translateY(-100%);
@@ -120,13 +124,12 @@ h1, h2{
 
   .menu a{
     padding: 50px;
-      font-size: 200%;
-      color: #fafafa;
-      justify-content: space-between;
+    font-size: 150%;
+    color: #fafafa;
   }
 
-  .menu a:hover {
-      color: #E6AF2E;
+  #menu{
+    font-size: 200%;
   }
   
   .close {
