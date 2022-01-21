@@ -47,6 +47,11 @@ h1, h2{
 
 .nav-item a:hover{
     color: #E6AF2E;
+    border-bottom: 1px solid #E6AF2E;
+}
+
+.active{
+    border-bottom: 1px solid #fafafa;
 }
 
 .nav-item:first-child{
