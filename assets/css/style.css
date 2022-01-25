@@ -159,7 +159,7 @@ h1, h2{
     background: url('../images/lough-leane.jpg') no-repeat center center;
     height:700px;
     background-size: 100%;
-    background-position-y: 10%;
+    background-position-y: top;
     
 }
 
@@ -192,6 +192,7 @@ h1, h2{
     #hero-image{
         width: 100%;
         height: 500px;
+        background-position-y: top;
     }
 }
 
@@ -201,6 +202,7 @@ h1, h2{
         width: 100%;
         height: 400px;
         margin-top: 0;
+        border-top: 0;
     }
 
     /* #cover-text{
@@ -219,7 +221,7 @@ h1, h2{
     }
     .nav-item:first-child{
         display: flex;
-        font-size: 90%;
+        
         margin-left: 5px;
     }
 }
