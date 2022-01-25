@@ -201,6 +201,24 @@ h1, h2{
     
 }
 
+hr{
+    margin-top: 2rem;
+    border: 0;
+    margin-left: 10rem;
+    margin-right: 10rem;
+	border-top: 1px solid #414141;
+    
+}
+
+/*  Activities section */
+
+.activities h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2.2rem;
+}
+
 /* media queries */
 
 @media screen and (max-width:1169px){
