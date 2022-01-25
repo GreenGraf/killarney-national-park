@@ -69,7 +69,7 @@ h1, h2{
 
 /* hamburger Menu link to code: https://dev.to/ljcdev/hamburger-css-no-js-2dfa*/
 .hamburger {
-    position: fixed;
+    position: absolute;
     /* a large z-index puts the ham button above the rest of the page*/
     z-index: 99;
     background: #6C7C49;
@@ -150,11 +150,6 @@ h1, h2{
 
 /* Hero Image */
 
-/* .wrapper{
-    display: flex;
-    position: relative;
-    
-} */
 
 #hero-image{
     background: url('../images/lough-leane.jpg') no-repeat center center;
@@ -245,11 +240,6 @@ h1, h2{
 
 @media screen and (max-width:885px){
 
-    /* .social-proof{
-        display:inline-flex;
-        height: 100px;
-    } */
-   
 }
 
 /* hide main nav for small screens */
