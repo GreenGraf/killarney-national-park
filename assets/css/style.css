@@ -11,6 +11,7 @@ body{
     font-family: "Montserrat", sans-serif;
     font-weight: 300;
     color: #3A3A3A;
+    background-color: #fafafa;
 }
 
 /*  headings and logo */
@@ -206,7 +207,7 @@ hr{
     border: 0;
     margin-left: 10rem;
     margin-right: 10rem;
-	border-top: 1px solid #414141;
+	border-top: 1px solid #E6AF2E;
     
 }
 
@@ -255,9 +256,9 @@ hr{
 
 
 .activity-card img {
-    width: 400px;
-    height: 300px;
-    object-fit: cover;
+    width: 100%;
+    height: auto;
+    object-fit: contain;
 
   }
 
