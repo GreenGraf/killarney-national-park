@@ -198,11 +198,7 @@ h1, h2{
     display: flex;
     justify-content: space-evenly;
     margin: 0rem 1rem;
-}
-.logo-cell{
-    display: flex;
-    height: 70%;
-    position: relative;
+    
 }
 
 /* media queries */
