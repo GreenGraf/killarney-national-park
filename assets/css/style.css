@@ -24,6 +24,7 @@ h1, h2{
 
 .nav-list{
     display: flex;
+    position: relative;
     justify-content: flex-end;
     align-items: center;
     font-size: 100%;
@@ -169,22 +170,23 @@ h1, h2{
     color: rgb(34, 34, 34);
 }
 
-/* #cover-text{
+#cover-text{
     display: flex;
     flex-direction: column;
     width: 33%;
-    height: 200px;
+    height: 20vh;
     background-color: rgba(209, 209, 209, 0.6);
     position: absolute;
     padding-top: 10px;
     padding-left: 20px;
+    padding-right: 10px;
     justify-content: center;
     align-items: left;
     top: 50%;
     left: 15%;
-    right: 0;
+    right: 15%;
     bottom: 0;
-} */
+}
 
 /* media queries */
 
@@ -199,14 +201,23 @@ h1, h2{
 
 @media screen and (max-width:750px){
     #hero-image{
+        display: flex;
+        position: relative;
         height: 65vh;
         background-position-x: 50%;
         overflow: hidden;
     }
 
-    /* #cover-text{
-        width: 75%;
-    } */
+    #cover-text{
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        justify-content: center;
+        align-items: center;
+        width: 66%;
+        height: 20vh;
+
+    }
 }
 
 /* hide main nav for small screens */
@@ -220,7 +231,6 @@ h1, h2{
     }
     .nav-item:first-child{
         display: flex;
-        
         margin-left: 5px;
     }
 }
