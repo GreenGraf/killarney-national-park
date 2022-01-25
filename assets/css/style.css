@@ -190,6 +190,25 @@ h1, h2{
 
 /* social proof logos */
 
+#as-seen{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2.2rem;
+}
+
+.social-proof{
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0rem 1rem;
+}
+.logo-cell{
+    display: flex;
+    height: 70%;
+    position: relative;
+}
 
 /* media queries */
 
@@ -200,7 +219,6 @@ h1, h2{
         background-position-y: top;
     }
 }
-
 
 @media screen and (max-width:750px){
     #hero-image{
@@ -221,6 +239,17 @@ h1, h2{
         height: 20vh;
 
     }
+}
+
+/*  social proof logos */
+
+@media screen and (max-width:885px){
+
+    /* .social-proof{
+        display:inline-flex;
+        height: 100px;
+    } */
+   
 }
 
 /* hide main nav for small screens */
@@ -245,3 +274,4 @@ h1, h2{
         display: none;
     }
 }
+
