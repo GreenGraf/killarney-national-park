@@ -267,6 +267,16 @@ hr{
 
   }
 
+  /* Vist Page */
+
+  .visit-blurb{
+      line-height: 1.5rem;
+      margin: auto;
+      margin-bottom: 2.5rem;
+      width: 83.3%;
+      text-align: center;
+      
+  }
 
   /* blockquote  */
 
