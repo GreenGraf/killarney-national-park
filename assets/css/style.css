@@ -357,8 +357,8 @@ footer{
     color: #fafafa;
 }  
 
-  .footer-socials{
-      display: flex;
+  .footer-socials li a i{
+      color: #fafafa;
   }
 
 
