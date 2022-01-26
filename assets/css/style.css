@@ -341,13 +341,15 @@ footer{
       display: flex;
       flex-direction: column;
       justify-content: space-between;
-      
+      width: 33%;
+      padding-left: 2rem;
+      padding-bottom: 1.5rem;
   }
 
   .footer-column-trust{
     display: flex;
-    flex-direction: column;
     justify-content: space-between;
+    width: 33%;
   }
 
 .footer-group{
@@ -356,7 +358,10 @@ footer{
 }
 
   .footer-column-trust ul{
+    display: flex;
     list-style: none;
+    letter-spacing: 1.5rem;
+    font-size: 200%;
   }
 
   .footer-column ul{
@@ -368,7 +373,6 @@ footer{
   }
 
 .footer-link{
-    font-style: inherit;
     color: #fafafa;
 }  
 
@@ -479,6 +483,14 @@ footer{
         height: 20vh;
 
     }
+
+    .footer-column{
+      width: 50%;
+  }
+
+  .footer-column-trust{
+    width: 100%;
+  }
 }
 
 /*  social proof logos */
