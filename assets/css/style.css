@@ -343,7 +343,7 @@ footer{
       justify-content: space-between;
       width: 33%;
       padding-left: 2rem;
-      padding-bottom: 1.5rem;
+      padding-bottom: 2rem;
   }
 
   .footer-column-trust{
@@ -362,6 +362,7 @@ footer{
     list-style: none;
     letter-spacing: 1.5rem;
     font-size: 200%;
+    align-content: center;
   }
 
   .footer-column ul{
@@ -486,11 +487,13 @@ footer{
 
     .footer-column{
       width: 50%;
-  }
+      align-content: center;
+      padding: 1rem;
+    }
 
-  .footer-column-trust{
-    width: 100%;
-  }
+    .footer-column-trust{
+      width: 100%;
+    }
 }
 
 /*  social proof logos */
