@@ -378,31 +378,37 @@ footer{
 
 /* Form Page */
 
-.contact-blurb{
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-}
-
-#contact-page {
+.form-row{
   display: flex;
   position: relative;
   background-position: center;
-  height: 900px;
+  height: 500px;
   width:auto;
+  flex-wrap: wrap;
+}
+
+
+.contact-blurb{
+  flex: 40%;
+  margin: 2rem 3rem;
+  padding-left: 2.5rem;
+  
+}
+
+.form-section{
+  flex:40%;
+  
 }
 
 .signup-form {
   display:flex;
   flex-direction: column;
   /* flex-wrap:wrap ; */
-  margin: 10%;
+  margin: 3rem;
   color: #fff;
   background-color: rgba(104, 124, 73, 0.6);
-  width: 16rem;
-  max-width: 400px;
-  position: absolute;
-  right: 10%;
+  width: 18rem;
+  max-width: 500px;
   padding: 30px;
 }
 
@@ -431,9 +437,8 @@ footer{
   padding: 15px 32px 15px 32px;
   text-align: center;
   font-size: 100%;
-  background-color: #f16c6b;
+  background-color: #E6AF2E;
   color: #fafafa;
-  display: block;
 }
 
 .join-button:hover {
@@ -461,6 +466,9 @@ footer{
         overflow: hidden;
     }
 
+    .contact-blurb{
+      width: 100%;
+    }
     #cover-text{
         display: flex;
         flex-direction: column;
