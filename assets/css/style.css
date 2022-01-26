@@ -134,6 +134,11 @@ h1, h2{
   #menu{
     font-size: 200%;
   }
+
+  #menu li a{
+    text-decoration: none;
+    list-style: none;
+  }
   
   .close {
     position: absolute;
