@@ -265,6 +265,8 @@ hr{
 
   /* blockquote  */
 
+  /* code attributed to: https://codepen.io/cliftwalker/pen/XJaEXY */
+
   blockquote{
     font-size: 1.4em;
     width:60%;
@@ -300,6 +302,49 @@ hr{
     font-weight: bold;
     margin-top:1em;
   }
+
+  /* Footer */
+footer{
+    padding: 3.75rem;
+    background-color: #6C7C49;
+    color: #fafafa;
+}
+  .footer-container{
+    width: 83.33%;
+    max-width: 75rem;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    padding-left: 8.4%;
+    padding-right: 8.3%;
+    padding-top: 2%;
+    flex-wrap: wrap;
+  }
+
+  .footer-column{
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+  }
+
+  .footer-column-trust{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .footer-column-trust ul{
+    list-style: none;
+  }
+
+  .footer-column ul{
+    list-style: none;
+  }
+
+  .footer-column h3{
+      padding-bottom: 1.2rem;
+  }
+
 
 /* media queries */
 
