@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,10 +10,13 @@
 
     <link rel="stylesheet" href="assets/css/style.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    
+
     <title>Killarney National Park</title>
 </head>
+
 <body>
+
+    <!-- PAGE HEADER -->
     <header>
         <nav>
             <ul class="nav-list">
@@ -39,31 +43,60 @@
             <br>
             <li><a href="contact.html">Contact</a></li>
             <a class="close" href="#">
-            <span class="material-icons">
-            close
-            </span>
+                <span class="material-icons">
+                    close
+                </span>
             </a>
         </ul>
         <a class="hamburger" href="#menu">
             <span class="material-icons">
-            menu
+                menu
             </span>
         </a>
     </header>
+     <!-- PAGE HEADER ENDS-->
+
+    <!-- MAIN BODY OF PAGE -->
     <main>
-        <div>
-            <h2>Get In Touch</h2>
-            <br>
-            <p>Please fill out the form here and one of our team will get back to you within 24 hours</p>
-            <br>
-            <p>Go raibh míle maith agat!</p>
-        </div>
-        <div>
-            <form>
-                
-            </form>
+        <div id="contact-page">
+            <div class="contact-blurb">
+                <h2>Get In Touch</h2>
+                <br>
+                <p>Please fill out the form here and one of our team will get back to you within 24 hours</p>
+                <br>
+                <p>Go raibh míle maith agat!</p>
+            </div>
+            <div class="form-section">
+                <form method="GET" action="https://formdump.codeinstitute.net/" class="signup-form">
+                    <h2>Contact Us</h2>
+                    <label for="fname">First Name</label>
+                    <input id="fname" name="first_name" type="text" required>
+                    
+                    <label for="lname">Last Name</label>
+                    <input id="lname" name="last_name" type="text">
+                    
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" name="email_address" required>
+
+                    <label for="message">Message:</label>
+                    <br>
+                    <textarea name="message" id="message" placeholder="Please type your query here" rows="10" cols="40"></textarea>
+                    
+                    <label for="road">Road</label>
+                    <input type="radio" id="road" name="running_preference" value="road" required>
+                    <label for="trail">Trail</label>
+                    <input type="radio" id="trail" name="running_preference" value="trail" required>
+                    <label for="both">Both</label>
+                    <input type="radio" id="both" name="running_preference" value="both" required>
+                    
+                    <input class="join-button" type="submit" value="Let's Run!">
+                </form>
+            </div>
         </div>
     </main>
+    <!-- MAIN BODY OF PAGE ENDS -->
+    
+    <!-- FOOTER BEGINS -->
     <footer>
         <div class="footer-container">
             <div class="footer-column">
@@ -81,31 +114,37 @@
             <div class="footer-column">
                 <div class="footer-group">
                     <div>
-                        <h3><i class="fas fa-phone-alt"></i>  Call Us</h3>
+                        <h3><i class="fas fa-phone-alt"></i> Call Us</h3>
                     </div>
                     <div>
-                        <a class="footer-link" href="tel:+353 1 539 3620" target="_blank">+353 1 539 3620  </a>
+                        <a class="footer-link" href="tel:+353 1 539 3620" target="_blank">+353 1 539 3620 </a>
                     </div>
                 </div>
                 <div class="footer-group">
                     <div>
-                        <h3><i class="far fa-envelope"></i>  Email Us </h3>
+                        <h3><i class="far fa-envelope"></i> Email Us </h3>
                     </div>
                     <div>
-                        <a class="footer-link" href="email:infokillarneyhouse@housing.gov.ie" target="">infokillarneyhouse@housing.gov.ie</a>
+                        <a class="footer-link" href="email:infokillarneyhouse@housing.gov.ie"
+                            target="">infokillarneyhouse@housing.gov.ie</a>
                     </div>
                 </div>
             </div>
             <div class="footer-column-trust">
                 <div>Trust Pilot Review</div>
                 <ul class="footer-socials">
-                    <li><a href="https://www.linkedin.com/in/mike-o-leary-photography/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-                    <li><a href="https://www.instagram.com/greengrafphotography/" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                    <li><a href="https://github.com/GreenGraf" target="_blank"><i class="fab fa-github-square"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/mike-o-leary-photography/" target="_blank"><i
+                                class="fab fa-linkedin"></i></a></li>
+                    <li><a href="https://www.instagram.com/greengrafphotography/" target="_blank"><i
+                                class="fab fa-instagram"></i></a></li>
+                    <li><a href="https://github.com/GreenGraf" target="_blank"><i class="fab fa-github-square"></i></a>
+                    </li>
                 </ul>
             </div>
         </div>
     </footer>
-    <!--Font Awesome Script  -->
+    <!-- FOOTER ENDS -->
+
+    <!--FONT AWESOME SCRIPT  -->
     <script src="https://kit.fontawesome.com/71f86bdac8.js" crossorigin="anonymous"></script>
 </body>
