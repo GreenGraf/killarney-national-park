@@ -483,14 +483,12 @@ footer {
   .contact-blurb {
     width: 100%;
     margin: 1rem;
-    
   }
 
   .form-section{
     padding-top: 50px;
     padding-bottom: 50px;
     justify-content: center;
-    
   }
 
   .column {
@@ -505,7 +503,6 @@ footer {
     align-items: center;
     width: 50%;
     height: 20vh;
-
   }
 
   .footer-column {
@@ -519,6 +516,8 @@ footer {
     justify-content: center;
     padding-top: 10px;
   }
+
+  
 }
 
 /*  social proof logos */
