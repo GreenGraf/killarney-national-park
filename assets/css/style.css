@@ -458,13 +458,6 @@ footer {
 
 /* media queries */
 
-@media screen and (max-width:1169px) {
-  #hero-image {
-    background-size: cover;
-    height: 75vh;
-    background-position-y: top;
-  }
-}
 
 @media screen and (max-width:750px) {
   #hero-image {
@@ -477,6 +470,14 @@ footer {
 
   .contact-blurb {
     width: 100%;
+    margin: 1rem;
+    padding: 0;
+    text-align: center;
+  }
+
+  .form-section{
+    padding-top: 50px;
+    padding-bottom: 50px;
   }
 
   #cover-text {
@@ -529,5 +530,14 @@ footer {
 @media screen and (min-width: 750px) {
   .hamburger {
     display: none;
+  }
+}
+
+
+@media screen and (max-width:1169px) {
+  #hero-image {
+    background-size: cover;
+    height: 75vh;
+    background-position-y: top;
   }
 }
