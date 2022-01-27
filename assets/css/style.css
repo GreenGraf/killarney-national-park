@@ -318,19 +318,34 @@ blockquote span {
 
 /* Map on visit page */
 
-.map{
-  width: 800px;
-  height: 300px;
+#find-us {
   display: flex;
-  align-items: center;
-
+  justify-content: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
 }
 
-.map iframe {
-  width: 75%;
-  height: 300px;
-  position: absolute;
+.map{
+  margin-top: 20px;
+  width: 100%;
+  height: 0;
+  padding-top: 1rem;
+  padding-bottom: 18rem;
+  position: relative;
+  display:flex;
+  justify-content: center;
   align-content: center;
+ 
+}
+
+.map iframe{
+  position: absolute;
+  width: 80%;
+  height: 75%;
+}
+
+#visit-map-line{
+  margin-top: 0;
 }
 
 /* Footer */
