@@ -316,6 +316,23 @@ blockquote span {
   margin-top: 1em;
 }
 
+/* Map on visit page */
+
+.map{
+  width: 800px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+
+}
+
+.map iframe {
+  width: 75%;
+  height: 300px;
+  position: absolute;
+  align-content: center;
+}
+
 /* Footer */
 
 footer {
