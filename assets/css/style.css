@@ -325,6 +325,7 @@ footer {
   color: #fafafa;
   padding-top: 20px;
   padding-bottom: 20px;
+  margin-top: 20px;
 }
 
 .footer-container {
@@ -383,12 +384,7 @@ footer {
 
 /* Contact Page */
 
-#contact-page{
-  height: 100vh;
-  width: auto;
-  
-  background: url("../images/muckross-house-profile-1.jpg") no-repeat center 0.5;
-}
+
 
 .form-row {
   display: flex;
