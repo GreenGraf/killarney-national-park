@@ -383,6 +383,13 @@ footer {
 
 /* Contact Page */
 
+#contact-page{
+  height: 100vh;
+  width: auto;
+  
+  background: url("../images/muckross-house-profile-1.jpg") no-repeat center 0.5;
+}
+
 .form-row {
   display: flex;
   position: relative;
@@ -394,9 +401,10 @@ footer {
 
 .contact-blurb {
   flex: 40%;
-  margin: 2rem 3rem;
+  margin: 2rem 1rem;
   padding-left: 2.5rem;
-
+  padding-top: 15%;
+  align-content: center;
 }
 
 .mountain-image{
@@ -418,8 +426,8 @@ footer {
   background-color: rgba(104, 124, 73, 0.6);
   width: auto;
   padding: 30px;
-  max-width: 350px;
-  position: relative;
+  max-width: 400px;
+  
 }
 
 .signup-form>h2 {
@@ -458,6 +466,14 @@ footer {
 
 /* media queries */
 
+@media screen and (max-width:650px){
+  .contact-blurb{
+    align-content: center;
+    text-align: center;
+    padding-top: 20px;
+  }
+}
+
 
 @media screen and (max-width:750px) {
   #hero-image {
@@ -471,13 +487,18 @@ footer {
   .contact-blurb {
     width: 100%;
     margin: 1rem;
-    padding: 0;
-    text-align: center;
+    
   }
 
   .form-section{
     padding-top: 50px;
     padding-bottom: 50px;
+    justify-content: center;
+    
+  }
+
+  .column {
+    justify-content: center;
   }
 
   #cover-text {
@@ -486,7 +507,7 @@ footer {
     position: absolute;
     justify-content: center;
     align-items: center;
-    width: 66%;
+    width: 50%;
     height: 20vh;
 
   }
