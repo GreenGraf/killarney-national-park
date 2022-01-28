@@ -63,11 +63,22 @@ Because there is so much to see and do in the park, visitors can be overwhelmed 
 
 ![Quote](assets/screenshots/social-proof-card.JPG)  
 
-* Footer
+* Footer Section
     * The footer section — which is on every page — acts as a consistant area that gives the most important information for getting in touch with the park.
-    * This section also has social media icons so users can keep up with all that's going on at the park
+    * This section also has social media icons so users can keep up with all that's going on at the park.
 
 ![Quote](assets/screenshots/footer.JPG) 
+
+* Visit Us Section
+    * This section describes some of the key attractions at the park.
+    * High-quality images suppliment the descriptive text, in order to whet the users appitite for visiting the park. 
+
+![Quote](assets/screenshots/visit-cards.JPG) 
+
+* Contact Page
+    * The sole purpose of this page is to allow the user to easilly get in touch with the park.
+
+![Quote](assets/screenshots/contact-page.JPG)
 
 
 
