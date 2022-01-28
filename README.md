@@ -28,7 +28,8 @@ Because there is so much to see and do in the park, visitors can be overwhelmed 
 
     * The navigation bar is on all three pages. On smaller screens, it collapses into a hamburger menu. This was achieved through pure CSS. The CSS was found on [here](https://dev.to/ljcdev/hamburger-css-no-js-2dfa) and copied. It has been edited to suit the design of this website.
     * The navigation bar has links to the homepage, visit page, and contact page. The logo, KNP, also acts as a homepage button.
-    ![Navbar](assets/screenshots/Main-navbar.JPG)
+
+![Navbar](assets/screenshots/Main-navbar.JPG)
 
 <br>
 
@@ -42,11 +43,22 @@ Because there is so much to see and do in the park, visitors can be overwhelmed 
 <br>
 
 * Social Proof
+    * The purpose of this section is to instill trust in KNP. Having mainstream brands, who feature and rate KNP highly, makes KNP aspirational and will confirm to the user that it's a reliable and popular location. 
+    * Positioning it directly beneath the hero section will quickly negate any hesitation the user might have, and convince them to explore the website further.
 
-    *The purpose of this section is to instill trust in KNP. Having mainstream brands that feature and rate KNP highly, makes KNP aspirational and will confirm to the user that KNP is a reliable and popular location. Positioning directly beneath the hero section will quickly negate any hesitation the user might have, and convince them to explore the website further.
+![social proof](assets/screenshots/social-proof.JPG)
+
 * Activities Section
 
     * This section is designed to showcase what you can do in the park with images and text. 
+
 ![Activities](assets/screenshots/activities-cards.JPG)   
 
 <br>
+
+* Quote Section
+    * The aim of the quote section is to create an emotional response and connection with the user.
+    * Having an original voice of a previous visitor gives the site more authenticity.
+    * It could make it easier for the user to imagine themselves there.
+
+![Quote](assets/screenshots/social-proof-card.JPG)  
