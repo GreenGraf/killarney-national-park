@@ -129,5 +129,11 @@ I like to say a massive "Thank You" to my mentor, Ben Kavanagh. He's a fantastic
 * This post on Stack Overflow helped me with responsiveness: https://stackoverflow.com/questions/61150660/how-to-make-image-responsive-in-flexbox-with-set-width
 * My inspiration for the footer came from this design: https://www.awwwards.com/inspiration/niarra-travel-footer
 
+### Media
+
+* The photos of the bike were the kayak were downloaded from [Pexels](https://www.pexels.com/) from [Daniel Frank](https://www.pexels.com/@fr3nks?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) and [Lisa Fotios](https://www.pexels.com/@fotios-photos?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) respectively
+* The image of the boat was taken from here: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.viator.com%2Fen-IE%2Ftours%2FKillarney%2FBOAT-ON-LAKES-OF-KILLARNEY-AND-NATIONAL-PARK%2Fd911-3544P7&psig=AOvVaw1iZN_W6uHkQmhLBgvlhkD4&ust=1642785295412000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjUk6nqwPUCFQAAAAAdAAAAABAI
+* All other images used are my own.
+
 
 
