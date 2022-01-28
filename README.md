@@ -25,14 +25,28 @@ Because there is so much to see and do in the park, visitors can be overwhelmed 
 ## Existing Features
 
 * Navigation Bar
-<br>
-![Navbar](assets/screenshots/Main-navbar.JPG)
+
     * The navigation bar is on all three pages. On smaller screens, it collapses into a hamburger menu. This was achieved through pure CSS. The CSS was found on [here](https://dev.to/ljcdev/hamburger-css-no-js-2dfa) and copied. It has been edited to suit the design of this website.
     * The navigation bar has links to the homepage, visit page, and contact page. The logo, KNP, also acts as a homepage button.
-<br>
-* Hero Section
-    * The hero section, with its striking image and cover text, is designed to immediately get the attention of the user and briefly describe the function of the website.
-<br>
-![Hero Section](assets/screenshots/hero-section.JPG)
+    ![Navbar](assets/screenshots/Main-navbar.JPG)
+
 <br>
 
+* Hero Section
+    * The hero section, with its striking image and cover text, is designed to immediately get the attention of the user and briefly describe the function of the website.
+
+<br>
+
+![Hero Section](assets/screenshots/hero-section.JPG)
+
+<br>
+
+* Social Proof
+
+    *The purpose of this section is to instill trust in KNP. Having mainstream brands that feature and rate KNP highly, makes KNP aspirational and will confirm to the user that KNP is a reliable and popular location. Positioning directly beneath the hero section will quickly negate any hesitation the user might have, and convince them to explore the website further.
+* Activities Section
+
+    * This section is designed to showcase what you can do in the park with images and text. 
+![Activities](assets/screenshots/activities-cards.JPG)   
+
+<br>
