@@ -16,13 +16,7 @@ Situated in the south west of the island, Killarney National Park is one of the 
 
 Because there is so much to see and do in the park, visitors can be overwhelmed choice. The aim of this website is to clearly outline the best areas to visit, the ways in which the park can be traversed, and, through a contact form, act as a way of getting in touch with the park staff should anyone have any questions.
 
-<br>
-
-Strategy = Site Owner Goals, and add User Stories
-Scope = What features you have planned
-Structure = What pages you want, and what will be in them
-Skeleton = Wireframe
-Surface = Visuals/Colours/etc
+<br> 
 
 ## User Experience Design
 
@@ -31,4 +25,14 @@ Surface = Visuals/Colours/etc
 ## Existing Features
 
 * Navigation Bar
-    * The navigation bar is on all three pages. On smaller screens it collapses into a hamburger menu. This was achieved through pure CSS. The CSS was found on [THIS](https://dev.to/ljcdev/hamburger-css-no-js-2dfa) website 
+<br>
+![Navbar](assets/screenshots/Main-navbar.JPG)
+    * The navigation bar is on all three pages. On smaller screens, it collapses into a hamburger menu. This was achieved through pure CSS. The CSS was found on [here](https://dev.to/ljcdev/hamburger-css-no-js-2dfa) and copied. It has been edited to suit the design of this website.
+    * The navigation bar has links to the homepage, visit page, and contact page. The logo, KNP, also acts as a homepage button.
+<br>
+* Hero Section
+    * The hero section, with its striking image and cover text, is designed to immediately get the attention of the user and briefly describe the function of the website.
+<br>
+![Hero Section](assets/screenshots/hero-section.JPG)
+<br>
+
