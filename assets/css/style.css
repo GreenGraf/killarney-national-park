@@ -483,9 +483,9 @@ footer {
   padding: 15px 32px 15px 32px;
   width: 200px;
   text-align: center;
-  font-size: 100%;
+  font-size: 150%;
   background-color: #E6AF2E;
-  color: #fafafa;
+  color: #fff;
 }
 
 .join-button:hover {
