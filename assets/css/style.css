@@ -501,6 +501,10 @@ footer {
   .signup-form{
     width: 300px;
   }
+
+  #cover-text{
+    align-items: center;
+  }
   
 }
 
@@ -508,6 +512,11 @@ footer {
   .contact-blurb{
     padding-top: 20px;
     padding-left: 0;
+  }
+
+  #cover-text{
+    align-items: center;
+    width: 50%;
   }
 }
 
@@ -543,7 +552,7 @@ footer {
     position: absolute;
     justify-content: center;
     align-items: center;
-    width: 50%;
+    width: 65%;
     height: 20vh;
   }
 
@@ -561,10 +570,6 @@ footer {
 
   
 }
-
-/*  social proof logos */
-
-@media screen and (max-width:885px) {}
 
 /* hide main nav for small screens */
 
@@ -591,6 +596,7 @@ footer {
   }
 }
 
+/* Change hero image size for anything but the largest screens */
 
 @media screen and (max-width:1169px) {
   #hero-image {
