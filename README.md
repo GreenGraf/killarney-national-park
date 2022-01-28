@@ -101,6 +101,18 @@ Thankfully, after a lot of back and forth, I managed to get the hamburger menu w
 * Lighthouse — Dev Tools
     * I used Lighthouse to test my sites accessability and it received a very good score on desktop and mobile.
     * I also tested the site with [WAVE](https://wave.webaim.org/) and found some accessibility alerts which I easilly fixed.
-![Lighthouse](assets/screenshots/lighthouse.JPG)    
+![Lighthouse](assets/screenshots/lighthouse.JPG) 
+![WAVE](assets/screenshots/wave.JPG)   
+
+## Deployment
+
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+    * In the GitHub repository, navigate to the Settings tab
+    * From the source section drop-down menu, select the Master Branch
+    * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+There is a link to the live site at the begining of this README.md but for convienience I'll paste the full link here: https://greengraf.github.io/killarney-national-park/
+
+
 
 
