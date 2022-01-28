@@ -355,7 +355,7 @@ footer {
   width: 100%;
   bottom: 0;
   background-color: #6C7C49;
-  color: #fafafa;
+  color: #fff;
   padding-top: 20px;
   padding-bottom: 20px;
   margin-top: 90px;
@@ -368,6 +368,7 @@ footer {
   padding-bottom: 10px;
   flex-wrap: wrap;
   justify-content: space-between;
+  font-size: 130%;
 }
 
 .footer-column {
