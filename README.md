@@ -14,7 +14,21 @@ Situated in the south west of the island, Killarney National Park is one of the 
 
 ### Purpose
 
-Because there is so much to see and do in the park, visitors can be overwhelmed by the choices. The aim of this website is to clearly outline the best areas to visit, the ways in which the park can be traversed, and, through a contact form, act as a way of getting in contact should anyone have any questions.
+Because there is so much to see and do in the park, visitors can be overwhelmed choice. The aim of this website is to clearly outline the best areas to visit, the ways in which the park can be traversed, and, through a contact form, act as a way of getting in touch with the park staff should anyone have any questions.
 
-## Features
+<br>
 
+Strategy = Site Owner Goals, and add User Stories
+Scope = What features you have planned
+Structure = What pages you want, and what will be in them
+Skeleton = Wireframe
+Surface = Visuals/Colours/etc
+
+## User Experience Design
+
+### Strategy 
+
+## Existing Features
+
+* Navigation Bar
+    * The navigation bar is on all three pages. On smaller screens it collapses into a hamburger menu. This was achieved through pure CSS. The CSS was found on [THIS](https://dev.to/ljcdev/hamburger-css-no-js-2dfa) website 
