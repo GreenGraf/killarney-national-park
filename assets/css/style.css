@@ -415,6 +415,12 @@ footer {
   color: #fafafa;
 }
 
+/* hide text for screen reader icons */
+
+.hide-link{
+  display: none;
+}
+
 /* Contact Page */
 
 .form-row {
