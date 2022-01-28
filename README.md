@@ -101,7 +101,9 @@ Thankfully, after a lot of back and forth, I managed to get the hamburger menu w
 * Lighthouse — Dev Tools
     * I used Lighthouse to test my sites accessability and it received a very good score on desktop and mobile.
     * I also tested the site with [WAVE](https://wave.webaim.org/) and found some accessibility alerts which I easilly fixed.
+
 ![Lighthouse](assets/screenshots/lighthouse.JPG) 
+
 ![WAVE](assets/screenshots/wave.JPG)   
 
 ## Deployment
@@ -113,6 +115,19 @@ Thankfully, after a lot of back and forth, I managed to get the hamburger menu w
 
 There is a link to the live site at the begining of this README.md but for convienience I'll paste the full link here: https://greengraf.github.io/killarney-national-park/
 
+## Credits
+
+I like to say a massive "Thank You" to my mentor, Ben Kavanagh. He's a fantastic motivator and extremely helpful. Also a big thanks to all the helpful people in the Slack community, especially Dave !
+
+### Content
+
+* The icons used in the footer are from [Font Awesome](https://fontawesome.com/)
+* The favicon was generated using [Favicon.io](https://favicon.io/favicon-generator/)
+* The hamburger menu was created originally by https://dev.to/ljcdev/hamburger-css-no-js-2dfa
+* The navbar styles were helped by this YouTube video: https://www.youtube.com/watch?v=W-nIX17Gg-Q&t=97s&ab_channel=AngelaDelise
+* The code for the block quote was taken from here: https://codepen.io/cliftwalker/pen/XJaEXY
+* This post on Stack Overflow helped me with responsiveness: https://stackoverflow.com/questions/61150660/how-to-make-image-responsive-in-flexbox-with-set-width
+* My inspiration for the footer came from this design: https://www.awwwards.com/inspiration/niarra-travel-footer
 
 
 
