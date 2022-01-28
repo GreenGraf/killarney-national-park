@@ -117,7 +117,7 @@ There is a link to the live site at the begining of this README.md but for convi
 
 ## Credits
 
-I like to say a massive "Thank You" to my mentor, Ben Kavanagh. He's a fantastic motivator and extremely helpful. Also a big thanks to all the helpful people in the Slack community, especially Dave !
+I like to say a massive "Thank You" to my mentor, Ben Kavanagh. He's a fantastic motivator and extremely helpful. Also a big thanks to all the helpful people in the Slack community!
 
 ### Content
 
