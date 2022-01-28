@@ -44,7 +44,7 @@ h2 {
 
 .nav-item a {
   text-decoration: none;
-  color: #fafafa;
+  color: #fff;
   transition: all 150ms ease-in;
 }
 
@@ -55,7 +55,7 @@ h2 {
 }
 
 .active {
-  border-bottom: 1px solid #fafafa;
+  border-bottom: 1px solid #fff;
 }
 
 .nav-item:first-child {
@@ -76,7 +76,7 @@ h2 {
   /* a large z-index puts the ham button above the rest of the page*/
   z-index: 99;
   background: #6C7C49;
-  color: #fafafa;
+  color: #fff;
   border: none;
   cursor: pointer;
   font-size: 200%;
@@ -129,7 +129,7 @@ h2 {
 .menu a {
   padding: 50px;
   font-size: 150%;
-  color: #fafafa;
+  color: #fff;
 }
 
 #menu {
@@ -406,11 +406,11 @@ footer {
 }
 
 .footer-link {
-  color: #fafafa;
+  color: #fff;
 }
 
 .footer-socials li a i {
-  color: #fafafa;
+  color: #fff;
 }
 
 /* hide text for screen reader icons */
