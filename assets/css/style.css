@@ -377,7 +377,7 @@ footer {
   justify-content: space-between;
   width: 33%;
   margin-right: auto;
-  padding-left: 1rem;
+  padding-left: 2rem;
   padding-bottom: 2rem;
 }
 
@@ -497,6 +497,12 @@ footer {
 
 /* media queries */
 
+@media screen and (max-width:340px) {
+  .footer-group{
+    padding:0;
+    font-size: 110%;
+  }
+}
 @media screen and (max-width:460px) {
   .signup-form{
     width: 300px;
@@ -505,6 +511,11 @@ footer {
   #cover-text{
     align-items: center;
   }
+
+  .footer-container {
+    font-size: 110%;
+  }
+  
   
 }
 
@@ -566,6 +577,7 @@ footer {
     width: 100%;
     justify-content: center;
     padding-top: 10px;
+    padding-left: 33px;
   }
 
   
