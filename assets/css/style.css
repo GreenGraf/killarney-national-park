@@ -97,7 +97,6 @@ h2 {
   word-wrap: normal;
   direction: ltr;
   font-feature-settings: 'liga';
-  -webkit-font-smoothing: antialiased;
   text-decoration: none !important;
 }
 
