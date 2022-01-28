@@ -62,3 +62,12 @@ Because there is so much to see and do in the park, visitors can be overwhelmed 
     * It could make it easier for the user to imagine themselves there.
 
 ![Quote](assets/screenshots/social-proof-card.JPG)  
+
+* Footer
+    * The footer section — which is on every page — acts as a consistant area that gives the most important information for getting in touch with the park.
+    * This section also has social media icons so users can keep up with all that's going on at the park
+
+![Quote](assets/screenshots/footer.JPG) 
+
+
+
