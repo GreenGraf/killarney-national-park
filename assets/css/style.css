@@ -72,6 +72,7 @@ h2 {
 /* hamburger Menu link to code: https://dev.to/ljcdev/hamburger-css-no-js-2dfa*/
 .hamburger {
   position: absolute;
+
   /* a large z-index puts the ham button above the rest of the page*/
   z-index: 99;
   background: #6C7C49;
@@ -455,12 +456,17 @@ footer {
   width: auto;
   padding: 30px;
   max-width: 400px;
-  
 }
 
 .signup-form>h2 {
-  color: rgb(34, 34, 34);
+  color: #3A3A3A;
   margin-bottom: 20px;
+  text-align: center;
+}
+
+.join-button{
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .text-input {
@@ -480,6 +486,7 @@ footer {
   margin-top: 20px;
   border-radius: 2px;
   padding: 15px 32px 15px 32px;
+  width: 200px;
   text-align: center;
   font-size: 100%;
   background-color: #E6AF2E;
@@ -489,6 +496,7 @@ footer {
 .join-button:hover {
   background-color: #fafafa;
   color: #6C7C49;
+  cursor: pointer;
 }
 
 
@@ -499,6 +507,7 @@ footer {
     align-content: center;
     text-align: center;
     padding-top: 20px;
+    padding-left: 0;
   }
 }
 
