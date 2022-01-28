@@ -99,12 +99,8 @@ Thankfully, after a lot of back and forth, I managed to get the hamburger menu w
     * No errors occured after auditing every page with the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgreengraf.github.io%2Fkillarney-national-park%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 * Lighthouse — Dev Tools
-<<<<<<< HEAD
     * I used Lighthouse to test my sites accessability and it received a very good score on desktop and mobile.
     * I also tested the site with [WAVE](https://wave.webaim.org/) and found some accessibility alerts which I easilly fixed.
 ![Lighthouse](assets/screenshots/lighthouse.JPG)    
 
-=======
-    * I used Lighthouse to test my 
->>>>>>> 6a506d2165d852421a3d97145933a8c10411e3fc
 
