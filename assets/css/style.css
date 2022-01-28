@@ -417,8 +417,6 @@ footer {
 
 /* Contact Page */
 
-
-
 .form-row {
   display: flex;
   position: relative;
@@ -427,19 +425,12 @@ footer {
   flex-wrap: wrap;
 }
 
-
 .contact-blurb {
   flex: 40%;
   margin: 2rem 1rem;
   padding-left: 2.5rem;
   padding-top: 15%;
   align-content: center;
-}
-
-.mountain-image{
- width: 100%;
- height: auto;
- padding-top: 50px;
 }
 
 .form-section {
