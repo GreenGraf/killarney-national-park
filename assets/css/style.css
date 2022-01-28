@@ -497,10 +497,10 @@ footer {
 
 /* media queries */
 
-@media screen and (max-width:340px) {
+@media screen and (max-width:344px) {
   .footer-group{
     padding:0;
-    font-size: 110%;
+    font-size: 90%;
   }
 }
 @media screen and (max-width:460px) {
