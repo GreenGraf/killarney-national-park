@@ -57,12 +57,27 @@ Because there is so much to see and do in the park, visitors can be overwhelmed 
     * Contact page
 #### Skeleton 
 <br> 
+
 ![Homepage](assets/wireframes/wireframe.jpg)
 
 #### Surface
 The idea behind the aesthetic of the website is to convey friendliness, a sense of adventure, and a connection with nature in modern times.
 
+##### Color Theme
 
+![colortheme](assets/screenshots/color-theme.jpeg)
+
+* The primary color, #6C7C49, is a soft, warmish green. It's meant to wrap around the site, as if the user is immersed in the park.
+* The secondary color, #E6AF2E, is a bright gold, which is meant to compliment the green and represents the beautiful light that can be experienced in the park but aslo mimics the color of the wild grasses in the autumn and winter.
+* The main font color is #3A3A3A. It's a slate grey as opposed to a black. Pure black is an unnatural color and can be quite disconcerting. The slate grey is easier on the eyes.
+* #FAFAFA is the chosen color for the background of the website. It's softer than pure white so it's easier on the eyes. 
+* Finally, a tertiary color, #AD8424, will be adopted in certain areas to improve accessibility  
+
+##### Typography
+
+The site will have a serif font, called Source Serif Pro, for titles and headings. It is a font that is similar to Courier but has a slightly friendlier curvature to it. It's a nod to the style employed by North American national parks — hence, representing 'Adventure.'  
+
+To pair with the serif font, the site will use a more modern looking sans-serif font for paragraphs. Montserrat is the chosen font here. 
 
 ## Existing Features
 
