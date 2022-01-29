@@ -205,6 +205,12 @@ There is a link to the live site at the begining of this README.md but for convi
 * Type 'git clone' and paste the URL copied in step 3.
 * Press 'Enter' to clone the project.
 
+### Fork
+
+* In Github, click on the project that you wish to fork.
+* Click on the 'Fork' button at the top right of the page.
+* The fork is now in your repository.
+
 ## Credits
 
 I like to say a massive "Thank You" to my mentor, Ben Kavanagh. He's a fantastic motivator and extremely helpful. Also a big thanks to all the helpful people in the Slack community!
