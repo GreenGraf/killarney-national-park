@@ -142,6 +142,19 @@ To pair with the serif font, the site will use a more modern looking sans-serif 
 * Seperate pages for the most significant parts of the park which describes them in further detail.
 * Maps of park trails that visitors can take whe they get there. 
 
+## Technologies Used
+
+* The project was written in HTML and CSS.
+* The project used Code Institute's [Gitpod Template](https://github.com/Code-Institute-Org/gitpod-full-template) 
+* Github was used for hosting, utilising git version control, and for hosting the site on GitHub pages.
+* [Google Fonts](https://fonts.google.com/) for fonts.
+* [Gitpod](https://gitpod.io/) was used to write and test the code. 
+* [Font Awesome](https://fontawesome.com/) was used as a resource for free icons.
+* [Adobe Color](https://color.adobe.com) was used to generate a color theme.
+* [Adobe Photoshop](https://www.adobe.com/ie/products/photoshop.html) was used to resize and crop images.
+* [TinyPNG](https://tinypng.com/) was used to compress images.
+* **Testing tools are credited and mentioned in the next section**
+
 ## Testing
 
 The website was deployed and tested on the most common screen sizes, down to 320px. As I was testing it, I noticed positioning errors here and there, but the vast majority of them have been fixed. The only areas where there are still issues are on the contact page, where the contents of the contact form appear to be offset to the right of the form. Unfortunately, I didn't have time to fix this but I will attempt to fix it at a later date. Apart from that, the only other responsiveness issue that I came across was the line height spacing in the footer, between the "Email Us" section and the "Call Us" section. This only occurs on the Visit page and the Contact page. It does not occur on the Index page. I'm not sure why this is happening but I didn't have time to figure it out. Again, I will attempt to remedy this at a later date.
@@ -155,12 +168,19 @@ Thankfully, after a lot of back and forth, I managed to get the hamburger menu w
 * CSS
     * No errors occured after auditing every page with the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgreengraf.github.io%2Fkillarney-national-park%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-* Lighthouse — Dev Tools
-    * I used Lighthouse to test my sites accessability and it received a very good score on desktop and mobile.
-    * I also tested the site with [WAVE](https://wave.webaim.org/) and found some accessibility alerts which I easilly fixed.
+#### Lighthouse — Dev Tools
 
-![Lighthouse](assets/screenshots/lighthouse.JPG) 
+* I used Lighthouse to test my sites accessability and it received a very good score on desktop and mobile.
 
+![desktop](assets/screenshots/lighthouse-desktop.JPG) 
+
+* While accessability on mobile was great, performance could improve. After a look through the details, I realised that two of the images could be reduced in size. I will implement this at a later date as it's not inside the scope of this particular project.
+
+![desktop](assets/screenshots/lighthouse-mobile.JPG) 
+
+ #### WAVE
+
+ * I also tested the site with [WAVE](https://wave.webaim.org/) and found some accessibility alerts which I easilly fixed.
 ![WAVE](assets/screenshots/wave.JPG)   
 
 ## Deployment
