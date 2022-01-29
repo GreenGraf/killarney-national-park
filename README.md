@@ -20,7 +20,9 @@ Because there is so much to see and do in the park, visitors can be overwhelmed 
 
 ## User Experience Design
 
-### User Stories
+### Strategy 
+
+#### User Stories
 
 * As a website visitor I want to:
     * Intuatively know what the website is for.
@@ -41,7 +43,26 @@ Because there is so much to see and do in the park, visitors can be overwhelmed 
     * Make a website that is enjoyable to navigate.
     * Fulfill the brief from the stakeholder, and exceed expectations. 
 
-### Strategy 
+### Scope
+
+#### What features are planned
+* The website must draw potential visitors with descriptive, warm, and engaging copy.
+* High-quality images are extremely important in any travel website. The park must come across as a "must-see" attraction.
+* Potential visitors must have a way of easilly getting in touch with the park.
+* Visitors should be able to easily find where the park is, and understand the limited office opening hours so as not to expect 24hr customer service (this is a public service)
+#### Structure
+* Three pages:
+    * Home page
+    * A 'Visit' page for Information on areas of interest
+    * Contact page
+#### Skeleton 
+<br> 
+![Homepage](assets/wireframes/wireframe.jpg)
+
+#### Surface
+The idea behind the aesthetic of the website is to convey friendliness, a sense of adventure, and a connection with nature in modern times.
+
+
 
 ## Existing Features
 
