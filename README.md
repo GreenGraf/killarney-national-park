@@ -181,6 +181,7 @@ Thankfully, after a lot of back and forth, I managed to get the hamburger menu w
  #### WAVE
 
  * I also tested the site with [WAVE](https://wave.webaim.org/) and found some accessibility alerts which I easilly fixed.
+ 
 ![WAVE](assets/screenshots/wave.JPG)   
 
 ## Deployment
