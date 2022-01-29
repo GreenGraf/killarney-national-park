@@ -181,7 +181,7 @@ Thankfully, after a lot of back and forth, I managed to get the hamburger menu w
  #### WAVE
 
  * I also tested the site with [WAVE](https://wave.webaim.org/) and found some accessibility alerts which I easilly fixed.
- 
+
 ![WAVE](assets/screenshots/wave.JPG)   
 
 ## Deployment
@@ -193,9 +193,28 @@ Thankfully, after a lot of back and forth, I managed to get the hamburger menu w
 
 There is a link to the live site at the begining of this README.md but for convienience I'll paste the full link here: https://greengraf.github.io/killarney-national-park/
 
+## Clone and Fork
+
+### Clone 
+
+* In Github, click on the project that you wish to clone.
+* Click the clipboard icon to copy the URL.
+* The fork will now be in your repository.
+* Open a new terminal.
+* Change the current working directory to the location that you want the cloned directory.
+* Type 'git clone' and paste the URL copied in step 3.
+* Press 'Enter' to clone the project.
+
 ## Credits
 
 I like to say a massive "Thank You" to my mentor, Ben Kavanagh. He's a fantastic motivator and extremely helpful. Also a big thanks to all the helpful people in the Slack community!
+
+### Code
+
+* HTML and CSS tips from [Mozilla](https://developer.mozilla.org) developer documentation.
+* HTML and CSS tips from [CSS Tricks](https://css-tricks.com/).
+* HTML and CSS tips from [Stack Overflow](https://stackoverflow.com/).
+* HTML and CSS tips from [W3Schools](https://www.w3schools.com/).
 
 ### Content
 
