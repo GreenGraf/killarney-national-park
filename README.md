@@ -202,7 +202,7 @@ There is a link to the live site at the begining of this README.md but for convi
 * The fork will now be in your repository.
 * Open a new terminal.
 * Change the current working directory to the location that you want the cloned directory.
-* Type 'git clone' and paste the URL copied in step 3.
+* Type 'git clone' and paste the URL copied in step 2.
 * Press 'Enter' to clone the project.
 
 ### Fork
