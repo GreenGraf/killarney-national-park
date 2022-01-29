@@ -20,6 +20,27 @@ Because there is so much to see and do in the park, visitors can be overwhelmed 
 
 ## User Experience Design
 
+### User Stories
+
+* As a website visitor I want to:
+    * Intuatively know what the website is for.
+    * Easily find more information about the website.
+
+* As a potential customer I want to:
+    * Be convinced that this is a worthwhile place to visit.
+    * Trust the organisation that runs it.
+    * Find out about areas of interest in the park.
+    * Know how I can travel through the park.
+
+* As someone who is already interested in going here I want to:
+    * Know how to get there.
+    * Get in touch to ask about specific locations.
+
+* As a website developer I want to:
+    * Create a website that has an intuative structure.
+    * Make a website that is enjoyable to navigate.
+    * Fulfill the brief from the stakeholder, and exceed expectations. 
+
 ### Strategy 
 
 ## Existing Features
